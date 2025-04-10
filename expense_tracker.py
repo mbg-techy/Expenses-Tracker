@@ -249,7 +249,7 @@ def home_page():
             get_date_raw = date.get()
             get_comment = comment.get()
 
-            if not get_amount or not get_expense_type or not get_date:
+            if not get_amount or not get_expense_type or not get_date_raw:
                 messagebox.showerror("Error", "Please fill in all fields.")
                 return
 
