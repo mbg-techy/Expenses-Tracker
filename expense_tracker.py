@@ -15,8 +15,8 @@ app.title("Expense Tracker")
 ctk.set_appearance_mode("dark")
 
 bg_image = ctk.CTkImage(
-    light_image=Image.open("D:\\expense_tracker\\background.jpg"),
-    dark_image=Image.open("D:\\expense_tracker\\background.jpg"),
+    light_image=Image.open("file path"),
+    dark_image=Image.open("your file path"),
     size=(1200, 700),
 )
 
@@ -31,10 +31,10 @@ frame3 = ctk.CTkFrame(master=app, width=1200, height=700, corner_radius=0)
 frame6 = ctk.CTkFrame(master=app, width=1200, height=700, corner_radius=0)
 frame7 = ctk.CTkFrame(master=app, width=1200, height=700, corner_radius=0)
 
-conn = psycopg2.connect(database="Expense Tracker", user="tracker_user", password="tracker123", host="localhost", port="5432")
+conn = psycopg2.connect(database="ur db name", user="your usernmae", password="your password", host="localhost", port="5432")
 userid = None
 
-logo_image = ctk.CTkImage(Image.open("side.png"), size=(50, 50))
+logo_image = ctk.CTkImage(Image.open("side.jpeg"), size=(50, 50))
 
 def add_header(frame):
     logo_label = ctk.CTkLabel(frame, image=logo_image, text="")
