@@ -74,7 +74,7 @@ Update your credentials for the SQl Server
 
 | Screen Name       | File Path                     | Description                             |
 |-------------------|-------------------------------|-----------------------------------------|
-| Login Page        | screenshots/login.png         | User login interface                    |
+| Login Page        | !(screenshots/login.png)         | User login interface                    |
 | Signup Page       | screenshots/signup.png        | New user registration form              |
 | Home Dashboard    | screenshots/home.png          | Dashboard showing budget summary        |
 | Add Expense Form  | screenshots/add_expense.png   | UI for adding daily expenses            |
