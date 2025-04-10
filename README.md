@@ -84,6 +84,20 @@ Update your credentials for the SQl Server
 
 ### Login Screen
 ![Login Screen](screenshots/login.png)
+### Login Screen Success
+![Login Screen](screenshots/login1.png)
+### Home Screen 
+![Login Screen](screenshots/home.png)
+### Signup Screen 
+![Login Screen](screenshots/signup.png)
+### Add Expense Screen 
+![Login Screen](screenshots/add_expense.png)
+### Budget Setting Screen 
+![Login Screen](screenshots/budget.png)
+### CSV Screen 
+![Login Screen](screenshots/csv_export.png)
+### Total Expense Screen 
+![Login Screen](screenshots/overall_expense.png)
 --
 
 ## Folder Structure
