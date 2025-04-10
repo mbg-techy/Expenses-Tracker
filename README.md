@@ -82,7 +82,8 @@ Update your credentials for the SQl Server
 | Export to CSV     | screenshots/alert.png         | CSV Downloaded to PC                    |
 | Expense Chart     | screenshots/chart.png         | Visual representation of expenses       |
 
-
+### Login Screen
+![Login Screen](screenshots/login.png)
 --
 
 ## Folder Structure
