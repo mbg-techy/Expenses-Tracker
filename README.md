@@ -87,17 +87,7 @@ Update your credentials for the SQl Server
 
 ## Folder Structure
 
-expense-tracker/
-│
-├── expense_tracker.py              # Main application file
-├── screenshots/                    # Folder to hold UI images
-│   ├── login_screen.png
-│   ├── dashboard.png
-│   └── ...
-├── side.jpeg
-|── background.png
-|── data.sql                        #SQL Queries to be executed in your DB
-└── README.md
+expense-tracker/ │ ├── expense_tracker.py # Main application file ├── screenshots/ # Folder to hold UI images │ ├── login_screen.png │ ├── dashboard.png │ └── ... # Other UI screenshots ├── side.jpeg # Asset image for sidebar or UI ├── background.png # Background image for the application ├── data.sql # SQL queries to be executed in your PostgreSQL DB └── README.md # Project documentation
 
 ---
 
